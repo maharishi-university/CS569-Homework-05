@@ -1,5 +1,6 @@
 # CS569 Homework 05
 ## Angular Change Detection
+## FORK THE REPO FIRST, THEN CLONE YOUR LOCAL COPY
 Your will build a Rock-Paper-Scissors game application with Angular framework, the application has the following tree structure:  
 * AppComponent (root)
   * button (reusable)
